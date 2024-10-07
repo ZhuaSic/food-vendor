@@ -2,6 +2,7 @@
 food vendor online order web and android
 
 url : https://www.rmlelepresto.com/
+bahasa yang digunakan : html, php native, bootstrap, talwind css, mysql database, android studio java code
 
 rmlelepresto adalah website order makanan yang sudah siap kirim berisi panel admin, system ongkir bisa di atur oleh admin dan anda bisa menambahkan jam jadwal kirim dan buka toko anda
 website sudah di intergrasikan dengan api di android foto tampilan android bisa dm email dedyrahmadanizhua@gmail.com system ordernya lengkap dan mudah di gunakan
